@@ -1,0 +1,202 @@
+[
+{
+"name":"MacBook Air M2",
+"description":"Apple Laptop M2 Chip",
+"price":95000,
+"category":"Laptop",
+"stock":6,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"HP Pavilion Laptop",
+"description":"HP Performance Laptop",
+"price":62000,
+"category":"Laptop",
+"stock":9,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Lenovo ThinkPad",
+"description":"Business Laptop",
+"price":70000,
+"category":"Laptop",
+"stock":7,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"iPad Pro",
+"description":"Apple Tablet",
+"price":80000,
+"category":"Tablet",
+"stock":10,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Samsung Galaxy Tab S8",
+"description":"Android Tablet",
+"price":55000,
+"category":"Tablet",
+"stock":11,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Apple Watch Series 8",
+"description":"Smart Watch",
+"price":42000,
+"category":"Accessories",
+"stock":14,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Boat Rockerz 550",
+"description":"Bluetooth Headphones",
+"price":2000,
+"category":"Accessories",
+"stock":30,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"JBL Flip 6",
+"description":"Portable Bluetooth Speaker",
+"price":8000,
+"category":"Accessories",
+"stock":15,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Realme Narzo 60",
+"description":"Budget Android Smartphone",
+"price":16000,
+"category":"Mobile",
+"stock":18,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"OnePlus 11",
+"description":"Flagship Android Smartphone",
+"price":56000,
+"category":"Mobile",
+"stock":13,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Google Pixel 7",
+"description":"Google Android Smartphone",
+"price":59000,
+"category":"Mobile",
+"stock":9,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Asus ROG Laptop",
+"description":"High Performance Gaming Laptop",
+"price":120000,
+"category":"Laptop",
+"stock":5,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Acer Predator Laptop",
+"description":"Gaming Laptop",
+"price":98000,
+"category":"Laptop",
+"stock":6,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Logitech Wireless Mouse",
+"description":"Ergonomic Wireless Mouse",
+"price":1200,
+"category":"Accessories",
+"stock":40,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Mechanical Keyboard",
+"description":"RGB Gaming Keyboard",
+"price":3500,
+"category":"Accessories",
+"stock":22,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Sandisk 1TB SSD",
+"description":"High Speed SSD Storage",
+"price":9000,
+"category":"Accessories",
+"stock":17,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Samsung 32 inch Monitor",
+"description":"Full HD LED Monitor",
+"price":15000,
+"category":"Accessories",
+"stock":12,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"LG UltraWide Monitor",
+"description":"34 inch UltraWide Monitor",
+"price":32000,
+"category":"Accessories",
+"stock":6,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Canon EOS 1500D",
+"description":"DSLR Camera",
+"price":45000,
+"category":"Camera",
+"stock":8,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Sony Alpha A6400",
+"description":"Mirrorless Camera",
+"price":78000,
+"category":"Camera",
+"stock":7,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"GoPro Hero 11",
+"description":"Action Camera",
+"price":41000,
+"category":"Camera",
+"stock":9,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Mi Power Bank 20000mAh",
+"description":"Fast Charging Power Bank",
+"price":2200,
+"category":"Accessories",
+"stock":35,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Apple AirPods Pro",
+"description":"Wireless Earbuds",
+"price":24000,
+"category":"Accessories",
+"stock":16,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Samsung Buds 2 Pro",
+"description":"Bluetooth Earbuds",
+"price":18000,
+"category":"Accessories",
+"stock":19,
+"image":"https://via.placeholder.com/200"
+},
+{
+"name":"Amazon Echo Dot",
+"description":"Smart Speaker with Alexa",
+"price":4500,
+"category":"Accessories",
+"stock":21,
+"image":"https://via.placeholder.com/200"
+}
+]

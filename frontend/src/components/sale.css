@@ -1,0 +1,57 @@
+.saleSection{
+padding:20px;
+background:#fff;
+}
+
+.saleSection h2{
+color:red;
+margin-bottom:10px;
+}
+
+.slider{
+display:flex;
+gap:20px;
+overflow-x:auto;
+scroll-behavior:smooth;
+animation:scroll 20s linear infinite;
+}
+
+.card{
+min-width:200px;
+border:1px solid #ddd;
+padding:10px;
+text-align:center;
+background:white;
+position:relative;
+}
+
+.card img{
+width:100%;
+height:150px;
+object-fit:contain;
+}
+
+.badge{
+position:absolute;
+top:5px;
+left:5px;
+background:red;
+color:white;
+padding:3px 6px;
+font-size:12px;
+}
+
+.old{
+text-decoration:line-through;
+color:gray;
+}
+
+.new{
+color:green;
+font-weight:bold;
+}
+
+@keyframes scroll{
+0%{transform:translateX(0);}
+100%{transform:translateX(-50%);}
+}
